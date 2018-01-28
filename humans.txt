@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Doctor Who tardis@com 
 
 # THANKS
 
