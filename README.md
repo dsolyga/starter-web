@@ -30,4 +30,4 @@ issue Pull requests for review.
 
 ### Copyright
 
-2018 Git.Training
+2018 Git.Training. All rights reserved.
